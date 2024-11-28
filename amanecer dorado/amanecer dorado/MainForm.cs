@@ -38,5 +38,7 @@ namespace amanecer_dorado
 			intro.Show();
 			this.Hide();
 		}
+		
+		
 	}
 }
