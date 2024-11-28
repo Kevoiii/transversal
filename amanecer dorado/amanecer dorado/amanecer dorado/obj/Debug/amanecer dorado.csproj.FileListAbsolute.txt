@@ -1,0 +1,95 @@
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC12\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form3.resources
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
+C:\Users\CC1-PC21\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form3.resources
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form4.resources
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC1_PC45\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form3.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form4.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form5.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC14\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form3.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form4.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form5.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Pagina6.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form3.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form4.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form5.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Pagina6.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form7.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form8.resources
+C:\Users\CC1_PC03\Downloads\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form9.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado._1.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form10.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form2.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form3.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form4.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form5.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Pagina6.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form7.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form8.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.Form9.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.INTRODUCCION.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer_dorado.MainForm.resources
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.csproj.GenerateResource.Cache
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.exe
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\obj\Debug\amanecer dorado.pdb
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.exe
+C:\Users\CC1_PC12\Downloads\amanecer dorado\amanecer dorado\amanecer dorado\bin\Debug\amanecer dorado.pdb
