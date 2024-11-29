@@ -38,8 +38,6 @@ namespace amanecer_dorado
 		
 		void Button1Click(object sender, EventArgs e)
 		{
-			
-
 			Form3 form3 = new Form3();
 			this.Hide();
 			form3.ShowDialog();
